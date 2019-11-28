@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/static/js/9.f0e19032.chunk.js"
   },
   {
-    "revision": "c411f608b82aaf80d9fa1ac9e316b3ce",
-    "url": "/static/media/Eina01Regular.c411f608.otf"
-  },
-  {
     "revision": "1dcabfe91ab841d8bba2737620b29ddc",
     "url": "/static/media/Eina01SemiBold.1dcabfe9.otf"
+  },
+  {
+    "revision": "c411f608b82aaf80d9fa1ac9e316b3ce",
+    "url": "/static/media/Eina01Regular.c411f608.otf"
   },
   {
     "revision": "9f04d8e29fb2c2e80892e10deea9608e",
