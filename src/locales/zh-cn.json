@@ -1,0 +1,170 @@
+{
+  "header": {
+    "home": "首页",
+    "solution": "解决方案",
+    "about": "关于我们",
+    "dkms": "分布式私钥管理系统"
+  },
+  "footer": {
+    "business": "业务方向",
+    "solution": "解决方案",
+    "about": "关于我们",
+    "iteringid": "钱包和用户入口",
+    "blockchaingame": "区块链游戏",
+    "solutionandservices": "解决方案和服务",
+    "dkms": "分布式私钥管理系统",
+    "airgapped": "隔空扫码",
+    "alliancechain": "联盟链",
+    "founder": "创始人",
+    "partner": "合作伙伴",
+    "location": "位置",
+    "recruit": "加入我们",
+    "record_1": "©2019-{{year}} 上海翼太源信息科技有限公司 沪ICP备17047802号-1",
+    "record_2": "沪公网安备 31011002003620号"
+  },
+
+  "home_page": {
+    "slogan": "推动区块链技术的大规模应用，迎接可信未来",
+
+    "section_1_title": "核心技术",
+    "section_1_alliance_chain": "底层公有链/联盟链设施",
+    "section_1_depository": "去中心化资产存管",
+    "section_1_chain_network": "去中心化跨链网络",
+    "section_1_platform": "WASM 开发平台",
+
+    "section_2_title": "解决方案",
+    "section_2_feature_1_title": "区块链框架与工具",
+    "section_2_feature_1_content": "依托翼太源科技在区块链底层开发的技术实力与经验，为开发区块链应用的公司提供Baas解决方案，包括区块链底层架构方案和中间件工具服务",
+    "section_2_feature_2_title": "区块链监管科技",
+    "section_2_feature_2_content": "区块链与智能合约可以将事后监管进化为事中监管，配合翼太源提供的去中心化身份系统，可以极大的提升监管科技的有效性与便利性",
+    "section_2_feature_3_title": "区块链游戏与资产上链",
+    "section_2_feature_3_content": "游戏应用和游戏资产在区块链和智能合约的加持下可以拓展更多的应用空间，配合去中心化资产存管方案，包括游戏资产在内的多种资产将有更多的想象空间",
+    "section_2_feature_4_title": "区块链+",
+    "section_2_feature_4_content": "依托翼太源科技在底层公链，跨链和智能合约开发的强大能力，翼太源联盟链平台可以极大的降低数据上链的开发门槛和上链成本，可应用于存证，溯源，供应链，征信等多种场景",
+
+    "section_3_title": "特色优势",
+    "section_3_feature_1_title": "低成本",
+    "section_3_feature_1_content": "30分钟自助式启动完整区块链网络，一键发链",
+    "section_3_feature_2_title": "高定制",
+    "section_3_feature_2_content": "可插拔式共识算法、智能合约、加密算法以及众多通用模块",
+    "section_3_feature_3_title": "模块商店",
+    "section_3_feature_3_content": "功能模块乐高，满足领域需求，自主可控，按需定制",
+    "section_3_feature_4_title": "技术领先",
+    "section_3_feature_4_content": "底层采用的substrate框架处于世界领先水平",
+
+    "section_4_title": "产品演示",
+    "section_4_dkms": "分布式私钥管理系统",
+    "section_4_itering": "去中心化身份 Itering ID",
+    "section_4_browser": "区块链浏览器 subscan 企业版",
+    "section_4_nft": "非标资产上链服务",
+
+    "section_1_subtitle":"简单，安全的数字钱包与用户入口",
+    "sectoin_1_airgapped":"简单安全的多场景，多平台，多应用的信息交互技术",
+    "sectoin_1_dkms":"去中心化的分布式私钥生成，签名，托管，恢复解决方案",
+    "sectoin_1_did":"去中心化身份是一个使用区块链技术来防篡改的公开身份，用户使用去中心化身份系统进行信息交互时可以保护自己的隐私",
+
+    "section_2_subtitle": "基于区块链的下一代游戏生态",
+    "section_2_evo": "进化星球是一个基于区块链和自治生态的虚拟经营类游戏",
+    "section_2_nft": "精简版在线NFT生成工具，通过智能合约，快速创建专属自定义NFT资产，适用于游戏资产上链、权益凭证以及更多用途",
+    "section_2_d": "⼀个底层公链，将会采⽤跨链侧链和第⼆层⽹络（例如状态通道，Plasma）等技术，⽤于⽀撑进化星球及未来区块链游戏世界的发展",
+    "section_2_darwinia": "达尔文网络是一个开放的跨链协议，用来支持游戏在不同公链之间进行游戏逻辑和游戏资产的跨链交互",
+    "section_2_detail_btn":"了解更多",
+
+    "get_itering_id": "获取 Itering ID",
+    "view_demo": "体验 Demo"
+  },
+
+  "about_page": {
+    "title": "关于我们",
+    "section_team_title": "创始人",
+    "section_team_office_co": "联合创始人",
+    "section_team_office_hr": "人力和商务总监",
+    "section_team_office_pd": "项目总监",
+    "section_team_office_bse": "区块链工程师",
+    "section_team_office_om": "运营经理",
+    "section_team_office_be": "资深后端工程师",
+    "section_team_office_de": "高级设计师",
+    "section_team_office_swd": "资深前端工程师",
+    "section_team_office_pm": "产品经理",
+    "section_team_intro_alex": "区块链领域优秀技术专家，全栈工程师，从2011年就投入比特币及区块链领域的技术工作，参与了多个开源项目的技术开发，尤其在石墨烯技术和EVM智能合约技术上具有很丰富的开发经验。毕业于上海交通大学。",
+    "section_team_intro_denny": "区块链领域优秀技术专家，比特股1.0核心开发者，智能合约安全专家。现在主要从事以太坊第二层网络和 Polkadot 跨链相关研究，曾在多个区块链科技公司担任技术负责人，毕业于南京大学数学系。",
+
+    "section_partner_title": "合作伙伴",
+
+    "section_location_title": "位置",
+
+    "section_jobs_title": "加入我们",
+    "section_jobs_contact_btn": "发送简历",
+
+    "section_jobs_office_wd": "前端工程师",
+    "section_jobs_office_wd_content": "岗位描述：<br/><br/>1. 负责交易网站的应用开发；<br><br>2. 负责产品前端架构的建立和实施，主导前端框架开发；<br><br>3. 优化前端架构，功能模块化，抽象化UI组件；<br><br>4. 推动前端工程化，自动化和工具化建设；<br><br>5. 维护和升级本地开发环境，提高开发效率，提升开发质量。<br/><br/>岗位要求：<br/><br/>1. 计算机相关专业本科以上学历，2年以上WEB前端工作经验，能独立完成前端开发工作； <br><br>2. 精通Web应用设计和开发，精通各种前端技术，例如Javascript、html、css等以及各浏览器代码兼容性；<br><br>3. 对Javascript继承、闭包、原型等有深入理解，理解其适用场景；<br><br>4. 过AJAX，Dom扩展，对组件化开发由深入的理解，对浏览器兼容性、性能调优、内存泄露有丰富经验；<br><br>5. 至少熟练使用一种前端框架（jQuery，YUI等），并对框架源码有所了解。",
+
+    "section_jobs_office_bse": "区块链系统工程师",
+    "section_jobs_office_bse_content": "岗位描述：<br/><br/>1. 从事区块链基础技术框架部分模块的改造和实现；<br><br>2. 设计开发区块链的中间层应用平台；<br><br>3. 区块链底层开发；<br><br>4. 跟踪和研究最新的技术发展趋势和创新点。<br/><br/>岗位要求：<br/><br/>1. 本科及以上学历，计算机科学、软件工程等相关专业；<br><br>2. 2年及以上互联网、金融科技等领域的设计开发经验；<br><br>3. 了解比特币，以太坊等区块链相关的机制和原理；<br><br>4. 有复杂系统的设计开发经验，熟悉数据结构和算法，基本功扎实； <br><br>5. 熟练掌握Java、C/C++、Go等一种以上编程语言，了解系统编程，有函数式编程语言、RUST经验者优先；<br><br>6. 对区块链的开源项目（Ethereum或Hyperledger）有研究和实践者优先；<br><br>7. 能快速阅读英文论文及相关资料，学习能力强，自我驱动力强；<br><br>8. 加分项：网络协议设计与实现、算法 Haskell或其他函数式语言、Compiler、分布式理论、密码学。",
+
+    "section_jobs_office_be": "iOS开发工程师",
+    "section_jobs_office_be_content": "岗位描述：<br/><br/>1. 负责iOS平台客户端软件的开发和优化；<br><br>2. 研究新兴技术，满足产品需求；<br><br>3. 参与项目重点、难点的技术攻坚；<br><br>4. 参与相关系统文档的撰写和维护；<br><br>5. 根据研发过程中的体验对产品提出建议。<br><br>岗位要求：<br/><br/>1. 有iOS平台研发经验，有已上线App开发经验加分；<br><br>2. 精通Objective-C/SWIFT语言，熟练掌握Xcode等开发工具，熟练掌握iOS SDK；<br><br>3. 熟悉iOS下网络通信机制，多线程处理，代理、单例，block等模式应用，有高性能客户端编程经验；<br><br>4. 具有良好的分析问题和解决问题的能力，勇于面对挑战性问题； <br><br>5. 能快速学习新技术，能给产品设计和开发提供建设性意见；<br><br>6. 目标导向，工作责任心强，思路清晰有条理，有良好的团队协作精神。",
+
+    "base_nanjing": "中国 - 南京"
+  },
+
+  "solution_dkms": {
+    "title": "分布式私钥管理系统",
+    "subtitle": "基于阈值签名和代理重加密技术的的新一代密钥管理系统，去中心化的分布式密钥生成，签名，托管，恢复解决方案",
+
+    "section_elements-1": "DKG技术生成分布式私钥",
+    "section_elements-2": "轮替算法防止恶意攻击",
+    "section_elements-3": "同态加密实现密文处理，零知识证明实现隐私验证",
+    "section_elements-4": "阈值签名实现多方确认",
+    "section_elements-5": "代理重加密和冗余存储实现私钥的分散托管和恢复",
+
+    "section_feature_sign_title": "阈值签名",
+    "section_feature_sign_subtitle": "为密钥管理新增阈值安全性的加密签名方式，签名无需组合完整私钥。在Itering DKMS中，用户端（User）与服务端（Server）各持有部分私钥，各自签名后组成一个完整可用的签名数据。任何设备上均无完整密钥，减少被盗窃的可能性。",
+    "section_feature_sign_tb_1": "操作复杂度",
+    "section_feature_sign_tb_2": "技术实现",
+    "section_feature_sign_tb_3": "安全度",
+    "section_feature_sign_tb_4": "隐私度",
+
+    "section_feature_sign_tb_lv_1": "一般",
+    "section_feature_sign_tb_lv_2": "复杂",
+    "section_feature_sign_tb_lv_3": "困难",
+
+    "section_feature_sign_tb_safe_1": "一般",
+    "section_feature_sign_tb_safe_2": "安全",
+    "section_feature_sign_tb_safe_3": "更加安全",
+
+    "section_feature_proxy_title": "代理重加密",
+    "section_feature_proxy_subtitle": "代理重加密是一种公钥加密，在不读取明文的前提下，允许代理节点将密文从一个公钥转为另外一个公钥。Itering DKMS 将代理重加密技术应用到私钥的备份与恢复领域，降低钱包丢失风险，提升资产安全度。在私钥的备份和恢复的过程中，密文和私钥始终分开存储，使私钥的控制权牢牢掌握在用户手中，杜绝任何托管方作恶的嫌疑。",
+
+    "section_feature_advantage_title": "Itering DKMS 优点",
+    "section_feature_advantage_1": "最大限度地提高数字资产的安全性，隐私性和可用性",
+    "section_feature_advantage_2": "较低的矿工交易费用",
+    "section_feature_advantage_3": "灵活的密钥共享恢复，即使设备不可用或密钥丢失，也可恢复钱包",
+    "section_feature_advantage_4": "任何设备上均无完整密钥，减少被盗窃的可能性",
+
+    "section_feature_scene_title": "多场景，可定制的解决方案",
+    "section_feature_scene_1": "加密货币交易所",
+    "section_feature_scene_2": "数字钱包",
+    "section_feature_scene_3": "数字货币高级用户",
+
+    "section_feature_sign_single":"单私钥签名",
+    "section_feature_sign_multisig":"多签",
+    "section_feature_sign_thresholdSig":"阈值签名"
+
+  },
+
+  "solution_air_gap": {
+    "title": "空气隔离扫码",
+    "subtitle": "基于 Air-Gapped 设计理念的简单，安全的交互方式",
+
+    "section_feature_1": "空气隔离的扫码交互，支持多设备，多平台，多应用，多种信息的交互",
+    "section_feature_2":"传统互联网级别的交互体验",
+    "section_feature_3":"转账，登录，验证，授权… 不断丰富的编码标准可以支持更多的应用场景",
+
+    "section_feature_scene_title":"多场景，可定制的解决方案",
+    "section_feature_scene_1": "数字货币交易",
+    "section_feature_scene_2": "Dapp 登录，交互",
+    "section_feature_scene_3": "数字身份认证，授权",
+    "section_feature_scene_4": "传统互联网的区块链改造"
+  }
+}
