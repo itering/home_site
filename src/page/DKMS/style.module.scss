@@ -1,0 +1,170 @@
+@import "../../style/index";
+
+.sectionTitle {
+  margin-bottom: 80px;
+  h1 {
+    font-size: 38px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  P {
+    font-size: 15px;
+    color: $text-second;
+  }
+}
+
+.dkmsDemoLink{
+  height: 42px;
+  border-radius: 21px;
+  border: 1px solid rgba(0, 120, 255, 1);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 78px;
+  margin-top: 20px;
+  cursor: pointer;
+  p {
+    font-size: 16px!important;
+    margin-bottom: 0;
+    font-weight: bold;
+    color: #3859FF!important;
+    text-decoration: none !important;
+  }
+}
+
+.featureArea {
+  p {
+    font-size: 15px;
+    color: $text-second;
+  }
+
+  .lineBox {
+    & > div {
+      border-right: 1px solid #ddd;
+      height: 40px;
+      border-top: 1px solid #ddd;
+    }
+    & > div:last-of-type {
+      border-right: none;
+    }
+  }
+
+  img {
+    margin-bottom: 25px;
+  }
+
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.thresholdArea {
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+
+    td, th {
+      border: 1px solid #979797;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+    td{
+      background: #fff;
+    }
+    th {
+      background: #f6f6f6;
+      font-weight: normal;
+    }
+  }
+  .sectionTitle {
+    h1 {
+      font-size: 30px;
+    }
+  }
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.proxyArea {
+  background: url("./img/proxy-bg.jpg") top center no-repeat;
+  background-size: 1920px 707px;
+  padding-top: 150px;
+  padding-bottom: 50px;
+  .sectionTitle {
+    h1 {
+      font-size: 30px;
+    }
+    margin-top: 80px;
+  }
+
+}
+
+.advanceArea {
+  .sectionTitle {
+    margin-bottom: 50px;
+    h1 {
+      font-size: 30px;
+    }
+  }
+  .box {
+    margin-bottom: 100px;
+  }
+
+}
+
+
+
+@media (max-width: 575.98px) {
+  .sectionTitle {
+    margin-bottom: 80px;
+    h1 {
+      font-size: 22px;
+      margin-bottom: 20px;
+      font-weight: bold;
+    }
+  }
+
+  .featureArea {
+    padding-top: 20px;
+    .lineBox {
+      display: none!important;
+    }
+
+  }
+
+  .thresholdArea {
+    .table {
+      td, th{
+        font-size: 12px;
+      }
+    }
+  }
+
+  .proxyArea {
+    background: url("./img/proxy-bg.jpg") top center no-repeat;
+    background-size: 1920px 707px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    .sectionTitle {
+      h1 {
+        font-size: 30px;
+      }
+      margin-top: 60px;
+    }
+  }
+
+  .advanceArea {
+    div {
+      p{
+        margin-bottom: 40px;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .featureArea {
+    .lineBox {
+      display: none!important;
+    }
+  }
+}

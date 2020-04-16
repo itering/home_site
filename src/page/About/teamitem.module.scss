@@ -1,0 +1,62 @@
+@import "../../style/index";
+
+.teamItem {
+  margin-bottom: 70px;
+  @extend .clearfix;
+  img {
+    float: left;
+    width: 170px;
+  }
+  .titleWrapper, .intro {
+    margin-left: 200px;
+  }
+  .intro {
+    line-height: 20px;
+  }
+
+  p {
+    font-size: 16px;
+    text-align: left;
+    color: #080C20;
+    &.name {
+      font-size: 22px;
+      margin-bottom: 5px;
+      color: #000;
+    }
+    &.jobTitle {
+      margin-bottom: 18px;
+      color: #6670A9;
+    }
+  }
+}
+
+@media (max-width: 575.98px) {
+  .teamItem {
+    margin-bottom: 30px;
+    text-align: left;
+    img {
+      float: none;
+      width: 138px;
+    }
+    .titleWrapper {
+      display: inline-block;
+      vertical-align: bottom;
+      margin-left: 20px;
+    }
+    .intro {
+      margin-top: 20px;
+      margin-left: 0;
+    }
+    p {
+      text-align: left;
+      &.name {
+        font-size: 18px;
+        margin-bottom: 5px;
+      }
+      &.jobTitle {
+        font-size: 12px;
+        margin-bottom: 0;
+      }
+    }
+  }
+}

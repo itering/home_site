@@ -1,0 +1,23 @@
+[
+  {
+    "title": "section_jobs_office_wd",
+    "office": "",
+    "base": "base_nanjing",
+    "salary": "K - K",
+    "content": "section_jobs_office_wd_content"
+  },
+  {
+    "title": "section_jobs_office_bse",
+    "office": "",
+    "base": "base_nanjing",
+    "salary": "K - K",
+    "content": "section_jobs_office_bse_content"
+  },
+  {
+    "title": "section_jobs_office_be",
+    "office": "",
+    "base": "base_nanjing",
+    "salary": "K - K",
+    "content": "section_jobs_office_be_content"
+  }
+]

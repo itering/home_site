@@ -1,0 +1,60 @@
+@import "../../style/index";
+
+.jobsSection {
+  .items {
+    border: 1px solid #DDDDDD;
+    padding: 25px 30px;
+    cursor: pointer;
+    border-bottom: none;
+    &:hover{
+      background: #f6f6f6;
+    }
+    p {
+      margin-bottom: 0;
+      font-size: 14px;
+      color: $text-second;
+      &:first-of-type {
+        font-size: 18px;
+        color: $text-main;
+      }
+    }
+    .sendEmail {
+      padding: 10px 20px;
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 0;
+      color: $text-main;
+      font-size: 16px;
+      text-decoration: none;
+    }
+  }
+  .content {
+    padding: 50px 100px;
+    color: $text-second;
+    font-size: 14px;
+    border: 1px solid #DDDDDD;
+    //border-top: none;
+    border-bottom: none;
+  }
+
+}
+
+.jobsSection:last-of-type {
+  .items{
+    border-bottom: 1px solid #ddd;
+  }
+  .content {
+    border-top: none;
+    border-bottom: 1px solid #ddd;
+  }
+}
+
+
+
+@media (max-width: 768px) {
+  .jobsSection {
+    .content {
+      padding: 30px 30px;
+    }
+  }
+}

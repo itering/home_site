@@ -1,0 +1,175 @@
+{
+  "header": {
+    "home": "Home",
+    "solution": "Solution",
+    "about": "About",
+    "dkms": "Itering DKMS"
+  },
+  "footer": {
+    "business": "Business",
+    "solution": "Solution",
+    "about": "About",
+    "iteringid": "Wallet & Dapp Portal",
+    "blockchaingame": "Blockchain Game",
+    "solutionandservices": "Solutions & Services",
+    "dkms": "Itering DKMS",
+    "airgapped": "Air-Gapped Scan",
+    "alliancechain": "Alliance Chain",
+    "founder": "Founder",
+    "partner": "Partner",
+    "location": "Location",
+    "recruit": "Recruit",
+    "record_1": "©2019-{{year}} 上海翼太源信息科技有限公司 沪ICP备17047802号-1",
+    "record_2": "沪公网安备 31011002003620号"
+  },
+
+  "home_page": {
+    "slogan": "Promote the massive adoption of blockchain and iterate to a trust-free future",
+
+    "section_1_title": "Core Technology",
+    "section_1_alliance_chain": "Infrastructure of Public Chain / Alliance Chain",
+    "section_1_depository": "Decentralized Asset Depository",
+    "section_1_chain_network": "Decentralized Cross Chain Network",
+    "section_1_platform": "WASM development platform",
+
+    "section_2_title": "Solution",
+    "section_2_feature_1_title": "Blockchain Framework and Tools",
+    "section_2_feature_1_content": "Relying on the technical strength and experience in the development of the blockchain, we provides Baas solutions for companies developing blockchain applications, including blockchain underlying architecture solutions and middleware tools services",
+    "section_2_feature_2_title": "Blockchain Supervision Technology",
+    "section_2_feature_2_content": "Blockchain and smart contracts can evolve post-regulation into in-process supervision, with the decentralized identity system we can greatly enhance the effectiveness and convenience of supervision technology",
+    "section_2_feature_3_title": "Blockchain Games and On-chain Service",
+    "section_2_feature_3_content": "Game applications and game assets can expand more application space under the blessing of blockchain and smart contracts. With the decentralized asset depository solution, multiple assets including game assets will have more imagination",
+    "section_2_feature_4_title": "Blockchain +",
+    "section_2_feature_4_content": "Relying on the powerful capabilities in the development of the underlying public chain, cross-chain and smart contract, we can greatly reduce the development threshold and the cost of the data on-chain, which can be applied to the proof, traceability, supply chain, credit information and other scenarios",
+
+    "section_3_title": "Characteristic Superiority",
+    "section_3_feature_1_title": "Low Cost",
+    "section_3_feature_1_content": "30 minutes self-service start full blockchain network, one-click chain",
+    "section_3_feature_2_title": "High Customized",
+    "section_3_feature_2_content": "Pluggable consensus algorithms, smart contracts, encryption algorithms, and many common modules",
+    "section_3_feature_3_title": "Module Store",
+    "section_3_feature_3_content": "Functional module LEGO, to meet the needs of the field, self-controllable, on-demand",
+    "section_3_feature_4_title": "Leading Technology",
+    "section_3_feature_4_content": "The underlying adoption of the substrate framework is at the world's leading level",
+
+    "section_4_title": "Product Demonstrations",
+    "section_4_dkms": "D.K.M.S",
+    "section_4_itering": "Itering ID",
+    "section_4_browser": "Blockchain Browser",
+    "section_4_nft": "NFT Shifter",
+
+    "section_1_subtitle":"Simple, secure digital wallet and app portal",
+    "sectoin_1_airgapped":"Simple and secure multi-scenario, multi-platform, multi-application information interaction technology",
+    "sectoin_1_dkms":"A decentralized distributed private key generation, signature, hosting, recovery solution",
+    "sectoin_1_did":"Decentralized identity is a public identity that uses blockchain technology to prevent tampering, efficient ID information transfer and privacy protection",
+
+    "section_2_subtitle": "Next-generation game ecology based on blockchain",
+    "section_2_evo": "Evolution Land is a virtual management game , base on blockchain and autonomy.",
+    "section_2_nft": "Quickly create exclusive custom NFT assets, used for game asset blockchainized, equity voucher and more.",
+    "section_2_d": "A public chain use cross-chain, side-chain and Layer2 to support the development of the future blockchain game.",
+    "section_2_darwinia": "Darwinia Network is an open, cross-chain protocol support games for cross-chain interaction in game logic and game assets.",
+    "section_2_detail_btn":"Detail",
+
+    "get_itering_id": "Get Itering ID",
+    "view_demo": "View Demo"
+  },
+
+  "about_page": {
+    "title": "About Us",
+    "section_team_title": "Founder",
+    "section_team_office_co": "Co - founder",
+    "section_team_office_hr": "HR & Business Director",
+    "section_team_office_pd": "Project Director",
+    "section_team_office_bse": "Blockchain System Engineer",
+    "section_team_office_om": "Operating Manager",
+    "section_team_office_be": "Back-end Engineer",
+    "section_team_office_de": "Designer",
+    "section_team_office_swd": "Senior Web Developer",
+    "section_team_office_pm": "Product Manager",
+    "section_team_intro_alex": "Excellent technical expert in the field of blockchain, full stack engineer, has been involved in the technical work of bitcoin and blockchain since 2011, and has participated in the technology development of several open source projects, especially in graphene technology and EVM smart contract technology. Very rich development experience. Graduated from Shanghai Jiaotong University.",
+    "section_team_intro_denny": "Excellent technical expert in the field of blockchain, 1.0 core developer of BitShares, intelligent contract security expert. Now he is mainly engaged in Ethereum's second-tier network and Polkadot cross-chain related research. He has served as technical leader in several blockchain technology companies and graduated from the Mathematics Department of Nanjing University.",
+
+    "section_partner_title": "Partner",
+
+    "section_location_title": "Location",
+
+    "section_jobs_title": "Join Us",
+    "section_jobs_contact_btn": "Send a resume",
+
+
+    "section_jobs_office_wd": "Front-end engineer",
+    "section_jobs_office_wd_content": "Job description：<br/><br/>1. the application and development of the transaction website;<br><br>2. responsible for the establishment and implementation of the product front-end architecture, and the development of the leading front frame;<br><br>3. optimize front-end architecture, modularized functions and abstract UI components;<br><br>4. promote front-end engineering, automation and tooling construction;<br><br>5. maintain and upgrade the local development environment, improve the development efficiency and improve the quality of development.<br/><br/>Post requirements:<br/><br/>1. bachelor degree or above in computer science, more than 2 years working experience in WEB front-end, and can finish the front-end development work independently;<br><br>2. proficient in Web application design and development, proficient in various front-end technologies, such as Javascript, HTML, CSS, and browser code compatibility;<br><br>3. in-depth understanding of Javascript inheritance, closure, archetype, and so on;<br><br>4. AJAX, Dom extension, in-depth understanding of component development, rich experience in browser compatibility, performance tuning and memory leakage;<br><br>5. at least proficient in using a front end framework (jQuery, YUI, etc.) and understanding the source code of the framework.",
+
+    "section_jobs_office_bse": "Blockchain System Engineer",
+    "section_jobs_office_bse_content": "Job description：<br/><br/>1. Renovation and implementation of some modules of the blockchain basic technology framework;<br><br>2. Design and develop middleware application platform for blockchain;<br><br>3. Blockchain low-level development;<br><br>4. Track and study the latest technology trends and innovations.<br/><br/>Post requirements:<br/><br/>1. Bachelor degree or above, computer science, software engineering and related majors;<br><br>2. 2 years of experience in design and development of Internet, financial technology and other fields;<br><br>3. Understand bitcoin, Ethereum and other blockchain related mechanisms and principles;<br><br>4. Experience in the design and development of complex systems, familiarity with data structures and algorithms, and solid basic skills;<br><br>5. Master one or more programming languages such as Java, C/C++, Go, etc., understand system programming, and have functional programming language/RUST experience first;<br><br>6. Research and practitioners of the open source project (Ethereum or Hyperledger) of the blockchain are preferred;<br><br>7. Can quickly read English papers and related materials, strong learning ability, self-driven;<br><br>8. Additional items: network protocol design and implementation, algorithms Haskell or other functional languages, Compiler, distributed theory, cryptography.",
+
+    "section_jobs_office_be": "iOS Development Engineer",
+    "section_jobs_office_be_content": "Job description：<br/><br/>1. Responsible for the development and optimization of iOS platform client software;<br><br>2. Research emerging technologies to meet product requirements;<br><br>3. Participate in key technical difficulties in the project;<br><br>4. Participate in the writing and maintenance of related system documentation;<br><br>5. Make recommendations on products based on experience in the development process;<br><br>Post requirements:<br/><br/>1. With iOS platform development experience;<br><br>2. Proficient in Objective-C/SWIFT language, proficient in Xcode and other development tools, proficient in iOS SDK;<br><br>3. Be familiar with iOS network communication mechanism, multi-thread processing, agent, singleton, block and other mode applications, have high-performance client programming experience;<br><br>4. Have good analytical and problem-solving skills and be courageous in facing challenging issues;<br><br>5. Ability to quickly learn new technologies and provide constructive advice for product design and development;<br><br>6. Goal orientation, strong work responsibility, clear and organized thinking, and good teamwork spirit;<br><br>",
+
+    "base_nanjing": "China-NanJing"
+
+  },
+
+  "solution_dkms": {
+    "title": "Distributed Key Management System",
+    "subtitle": "Next generation key management system based on Threshold-Sig and Proxy Re-encryption <br/> Decentralized distributed key generation, signature, hosting, recovery solution",
+
+    "section_elements-1": "DKG technology generates a distributed private key",
+    "section_elements-2": "The rotation algorithm prevents malicious attacks",
+    "section_elements-3": "Homomorphic encryption implements ciphertext processing, zero-knowledge proofing implements privacy verification",
+    "section_elements-4": "Threshold signatures enable multi-party validation",
+    "section_elements-5": "Proxy re-encryption and redundant storage enable decentralized hosting and recovery of private keys",
+
+
+
+    "section_feature_sign_title": "Threshold-Sig",
+    "section_feature_sign_subtitle": "New cryptographic signature mode for key management. Signatures do not need to combine complete private keys. <br/><br/>In Itering DKMS, User and Server each part holds half of private key, which is signed to form a complete and usable signature data. There is no complete key on any device, reducing the likelihood of theft",
+    "section_feature_sign_tb_1": "Operational complexity",
+    "section_feature_sign_tb_2": "Technical realization",
+    "section_feature_sign_tb_3": "Safety",
+    "section_feature_sign_tb_4": "Privacy",
+
+    "section_feature_sign_tb_lv_1": "Normal",
+    "section_feature_sign_tb_lv_2": "Complex",
+    "section_feature_sign_tb_lv_3": "Difficult",
+
+    "section_feature_sign_tb_safe_1": "Normal",
+    "section_feature_sign_tb_safe_2": "Safe",
+    "section_feature_sign_tb_safe_3": "More Safe",
+
+    "section_feature_proxy_title": "Proxy Re-encryption",
+    "section_feature_proxy_subtitle": "Proxy Re-encryption is a type of public key encryption that allows a proxy node to transfer ciphertext from one public key to another without reading the plaintext <br/><br/>Itering DKMS applies Proxy Re-encryption technology to the backup and recovery of private keys, reducing the risk of wallet loss and improving asset security.During the backup and recovery of the private key, the ciphertext and private key are always stored separately. The control of the private key is firmly in the hands of the user, and any suspicion of the escrow party is prevented",
+
+    "section_feature_advantage_title": "Advantage of Itering DKMS",
+    "section_feature_advantage_1": "Maximize the security, privacy and usability of digital assets",
+    "section_feature_advantage_2": "Lower miner transaction costs",
+    "section_feature_advantage_3": "Flexible key sharing recovery to recover your wallet even if your device is unavailable or your key is lost",
+    "section_feature_advantage_4": "No complete key on any device, reducing the possibility of theft",
+
+
+    "section_feature_scene_title": "Multi-scene, customizable solution",
+    "section_feature_scene_1": "Cryptographic exchange",
+    "section_feature_scene_2": "Digital wallet",
+    "section_feature_scene_3": "Digital currency advanced user",
+
+    "section_feature_sign_single":"Single-Sig",
+    "section_feature_sign_multisig":"Multi-Sig",
+    "section_feature_sign_thresholdSig":"Threshold-Sig"
+
+  },
+
+  "solution_air_gap": {
+    "title": "Air-Gapped Scan",
+    "subtitle": "Simple, secure interaction based on Air-Gapped design philosophy",
+
+    "section_feature_1": "Air-Gapped scan code interaction, support multi-device, multi-platform, multi-application, multiple information interaction",
+    "section_feature_2":"Traditional Internet-level interactive experience",
+    "section_feature_3":"Transfer, login, verification, authorization... Constantly rich coding standards can support more user scenarios",
+
+    "section_feature_scene_title":"Multi-scene, customizable solution",
+    "section_feature_scene_1": "Digital currency trading",
+    "section_feature_scene_2": "Dapp login, interaction",
+    "section_feature_scene_3": "Digital identity authentication",
+    "section_feature_scene_4": "Traditional Internet blockchain transformation"
+  }
+}
