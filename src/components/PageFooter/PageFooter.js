@@ -19,10 +19,15 @@ class PageFooter extends Component {
         return (
             <div className={styles.navFooter}>
                 <div className={`${styles.recordPC}`}>
-                    <p>{t('footer:record_1', {year: 2020})}</p>
+                    <div className={`${styles.recordLicense}`}>
+                        <span>{t('footer:record_1', {year: 2020})}</span>
+                        <a href="http://www.beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">
+                            {t('footer:record_2')}
+                        </a>
+                    </div>
                     <div className={styles.recordInfo}>
                         <img src={recordIcon}/>
-                        <p>{t('footer:record_2')}</p>
+                        <p>{t('footer:record_3')}</p>
                     </div>
                     <div className={`${styles.social}`}>
                         <a href="mailto:contact@itering.com" target="_blank"><img width={28} src={mailIconMD}/></a>
