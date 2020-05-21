@@ -15,7 +15,7 @@ async function render() {
         host: 'localhost:5000'
     }
 
-    const cname = 'itering.com'
+    const cname = 'www.itering.com'
     const dirName = path.join(
         'build',
         '/',
