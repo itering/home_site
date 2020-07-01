@@ -35,7 +35,9 @@ class Home extends Component {
     }
 
     componentDidMount(){
-        archorsComponent()
+        archorsComponent();
+        const {t} = this.props;
+        document.title = t('header:title');
     }
 
     areaMapHandle = (key, status) => {

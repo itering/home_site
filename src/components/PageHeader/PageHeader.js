@@ -57,9 +57,10 @@ class PageHeader extends Component {
     }
 
     changeLng = lng => {
-        const {i18n} = this.props;
+        const {i18n, t} = this.props;
         i18n.changeLanguage(lng);
         localStorage.setItem("lng", lng);
+        document.title = t('header:title');
     }
 
     showTargetElement = () => {
