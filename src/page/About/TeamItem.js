@@ -7,7 +7,7 @@ class TeamItem extends Component {
         const {t} = this.props
         return (
             <div className={styles.teamItem}>
-                <img src={this.props.img}/>
+                <img alt="" src={this.props.img}/>
                 <div className={styles.titleWrapper}>
                     <p className={styles.name}>{this.props.name}</p>
                     <p className={styles.jobTitle}>{t(`about_page:${this.props.office}`)}</p>
