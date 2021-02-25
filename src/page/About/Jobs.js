@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import {Button, Collapse} from 'react-bootstrap'
+import {Collapse} from 'react-bootstrap'
 
 import styles from './jobs.module.scss'
 import jobsData from './jobs.json'

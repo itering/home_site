@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import {Container, Row, Col, Image} from 'react-bootstrap'
+import {Container, Row, Col} from 'react-bootstrap'
 import {PageHeader} from '../../components/PageHeader'
 import {PageFooter} from '../../components/PageFooter'
 import styles from './style.module.scss'
@@ -7,8 +7,6 @@ import TeamItem from "./TeamItem";
 import Jobs from './Jobs'
 import teamData from './team'
 import partnerData from './partner'
-
-import locationBanner from './img/location-banner.png'
 import {withTranslation} from "react-i18next";
 import archorsComponent from "../../components/anchorsComponent";
 
