@@ -24,10 +24,14 @@
     "react-scripts": "2.1.8",
     "rimraf": "^2.6.2"
   },
+  "devDependencies": {
+    "prerender-spa-plugin": "^3.4.0",
+    "react-app-rewired": "^2.1.8"
+  },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "yarn && react-scripts build",
-    "test": "react-scripts test",
+    "start": "react-app-rewired start",
+    "build": "yarn && react-app-rewired build",
+    "test": "react-app-rewired test",
     "eject": "react-scripts eject",
     "render": "babel-node tools/run render",
     "serve": "serve -s build",
