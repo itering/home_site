@@ -19,6 +19,8 @@ jobs:
           ssh-key: "${{ secrets.ITERING_ACTIONS_DEPLOY_KEY }}"
 
       - name: Build using Puppeteer
+        env:
+          CI: "false"
         run: |
           yarn install
           yarn run build
