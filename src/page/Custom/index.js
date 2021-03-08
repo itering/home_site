@@ -69,19 +69,19 @@ class Custom extends Component {
                             <Col md={10}>
                                 <Row>
                                     <Col xs={6} md={3} className={'px-4'}>
-                                        <img className={'w-100'} src={require('./img/ms1.png')}/>
+                                        <img alt="" className={'w-100'} src={require('./img/ms1.png')}/>
                                         <p>{t('solution_air_gap:section_feature_scene_1')}</p>
                                     </Col>
                                     <Col xs={6} md={3} className={'px-4'}>
-                                        <img className={'w-100'} src={require('./img/ms2.png')}/>
+                                        <img alt="" className={'w-100'} src={require('./img/ms2.png')}/>
                                         <p>{t('solution_air_gap:section_feature_scene_2')}</p>
                                     </Col>
                                     <Col xs={6} md={3} className={'px-4'}>
-                                        <img className={'w-100'} src={require('./img/ms3.png')}/>
+                                        <img alt="" className={'w-100'} src={require('./img/ms3.png')}/>
                                         <p>{t('solution_air_gap:section_feature_scene_3')}</p>
                                     </Col>
                                     <Col xs={6} md={3} className={'px-4'}>
-                                        <img className={'w-100'} src={require('./img/ms4.png')}/>
+                                        <img alt="" className={'w-100'} src={require('./img/ms4.png')}/>
                                         <p>{t('solution_air_gap:section_feature_scene_4')}</p>
                                     </Col>
                                 </Row>

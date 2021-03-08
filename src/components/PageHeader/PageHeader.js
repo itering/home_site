@@ -1,11 +1,10 @@
 import React, {Component} from "react";
-import {Navbar, NavDropdown, Dropdown, Nav, Form, Container, Row, Col} from 'react-bootstrap'
+import {Navbar, Dropdown} from 'react-bootstrap'
 import { disableBodyScroll, enableBodyScroll, clearAllBodyScrollLocks } from 'body-scroll-lock';
 
 import styles from './style.module.scss'
 import logo from '../../logo.svg'
 import logo_light from '../../logo-light.svg'
-import closeIcon from './img/close.png'
 import {withTranslation} from "react-i18next";
 
 class CustomToggle extends React.Component {
@@ -81,13 +80,12 @@ class PageHeader extends Component {
 
 
     render() {
-        const {t, theme} = this.props
-        const {open} = this.state
+        const {theme} = this.props
         return (
             <div className={theme}>
                 <Navbar className={`${styles.Navbar} cs-header`}>
                     <Navbar.Brand href="/">
-                        <img src={theme === 'dark' ? logo_light : logo}/>
+                        <img alt="logo" src={theme === 'dark' ? logo_light : logo}/>
                     </Navbar.Brand>
                     <Dropdown drop='left'>
                     <Dropdown.Toggle as={CustomToggle} id="dropdown-custom-components">

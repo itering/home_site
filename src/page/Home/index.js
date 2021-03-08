@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import {Container, Row, Col, Image, Nav} from 'react-bootstrap'
+import {Container, Row, Col, Image} from 'react-bootstrap'
 import {PageHeader} from '../../components/PageHeader'
 import {PageFooter} from '../../components/PageFooter'
 import styles from './style.module.scss'
@@ -21,19 +21,7 @@ import demo4 from './img/section-4-demo-4.png'
 import archorsComponent from '../../components/anchorsComponent'
 import {withTranslation} from "react-i18next";
 
-import Dropdown from "../../../node_modules/react-bootstrap/es/Dropdown";
-
 class Home extends Component {
-    constructor(props, context) {
-        super(props, context);
-
-        this.state = {
-            area1: false,
-            area2: false,
-            area3: false,
-        }
-    }
-
     componentDidMount(){
         archorsComponent();
         const {t} = this.props;
@@ -51,7 +39,6 @@ class Home extends Component {
 
     render() {
         const {t} = this.props
-        const {area1, area2, area3} = this.state
         return (
             <div>
                 <div className={styles.homeBannerArea}>
@@ -77,7 +64,7 @@ class Home extends Component {
                             </Col>
                             <div className={styles.landscapeBox}>
                                 <div className={styles.landscape}>
-                                    <img src={section1_main}/>
+                                    <img alt="" src={section1_main}/>
                                 </div>
                                 <ul>
                                     <li>
